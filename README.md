@@ -1,6 +1,6 @@
 # Vision Helper For Visually Impaired People
 #
-•	It is an application for visually impaired people
+•	It is an application for visually impaired people made using Android and Tensorflow Techable machine.
 #
 •	It also provides easy-to-use user interfaces.
 #
