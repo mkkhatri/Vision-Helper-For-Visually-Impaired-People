@@ -1,5 +1,4 @@
-#
-Vision Helper For Visually Impaired People
+# Vision Helper For Visually Impaired People
 #
 •	It is an application for visually impaired people
 #
